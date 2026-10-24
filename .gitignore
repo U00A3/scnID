@@ -1,0 +1,20 @@
+# Foundry
+out/
+cache/
+broadcast/**/run-*.json
+broadcast/**/dry-run/
+broadcast/**/*.recovery.lock
+broadcast/local-addresses.json
+
+# keep tracked
+!broadcast/.gitkeep
+!broadcast/testnet-addresses.json
+
+# Frontend (design / UI source is private - not published with this repo)
+ui/
+
+# OS / IDE
+.DS_Store
+*.swp
+.idea/
+.vscode/

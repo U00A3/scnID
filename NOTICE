@@ -1,0 +1,14 @@
+SCNID incorporates and adapts code from Njaybby's SCN governance work:
+
+  Repository: https://github.com/Njaybby/scn-governance
+  Author:     Njaybby (https://github.com/Njaybby)
+  Copyright (c) NJay / contributors
+  Licensed under the MIT License (see LICENSE.scn-governance)
+
+Substantial portions of the personhood / adapter / SCN-oriented design originate there.
+SCNID adaptations (PersonGovernor POV, MockPersonhoodAdapter wiring, Lab-like link UX,
+docs, and related scripts) are original to this repository unless noted otherwise in
+file headers.
+
+The hosted demo UI (layout, CSS, components) is **not** published in this repository and is
+not licensed for reuse via the files herein. See the README "Public demo" section.
