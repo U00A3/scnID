@@ -89,6 +89,7 @@ Addresses land in `broadcast/` (local file is gitignored; testnet JSON is tracke
 ## Docs
 
 - [`docs/OVERVIEW-LIGHT.md`](docs/OVERVIEW-LIGHT.md) - what ships, sybil scorecard, pre-V3 suggestions (start here)
+- [`docs/TODO.md`](docs/TODO.md) - registry review punch list (link cap, rebind, 0.1 weight)
 - [`docs/VISION.md`](docs/VISION.md) - product direction
 - [`docs/SYBIL.md`](docs/SYBIL.md) - vs Lab vs pure SCN
 - [`docs/ATTESTATION-BRIDGE.md`](docs/ATTESTATION-BRIDGE.md) - attestation as temporary bridge

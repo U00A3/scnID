@@ -16,7 +16,7 @@ v0 ships **person chamber only** (`PersonGovernor`). Stake / bicameral pieces ar
 2. Either:
    - Point UI / demos at `BicameralGovernor` (stake + person), or
    - Extend `PersonGovernor` into a thin bicameral wrapper.
-3. Implement base tier weighting in registry / governor (`weight = 1/κ` per KYC'd address) - today person weight is 0/1.
+3. Implement base tier weighting in registry / governor (`weight = 1/κ` per linked wallet, cap 1) - today person weight is 0/1. See also [TODO.md](./TODO.md) (link cap, rebind, unlink snapshot).
 4. Preflight against Redbelly testnet Permission (extender policy: `treatExtenderAsBusiness = false` on testnet).
 
 ## Non-goals until then
